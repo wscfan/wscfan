@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wscfan
 - 👀 I’m interested in web technology.
-- 🌱 I’m currently learning nodejs.
+- 🌱 I’m currently learning nestjs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
